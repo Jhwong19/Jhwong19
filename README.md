@@ -19,7 +19,7 @@ I am passionate about building impactful applications and solving exciting probl
 
 ### My Resume
 
-[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-5BC0EB?style=for-the-badge&logo=github&logoColor=white)](https://jinghuiwong.github.io/resume)
+[![View My Resume](https://img.shields.io/badge/View%20My%20Resume-5BC0EB?style=for-the-badge&logo=github&logoColor=white)]([https://jinghuiwong.github.io/resume](https://jhwong19.github.io/jinghui-resume/))
 
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,regex,docker,kubernetes,aws,github,git,gitlab)](https://skillicons.dev)
